@@ -22,5 +22,9 @@ You have to install following Python Modules to run the code in your Local Machi
 4. webbrowser (pip install webbrowser) 
 5. smtplib,datetime and os are inbuilt packages so need to install it.
 
-Note: To open code editor of your choice and python interpreter(IDLE) you have to provide
+Note: 1. To open code editor of your choice and python interpreter(IDLE) you have to provide
 path of your local directories in the source code to avoid error.
+2. If there is any error regarding microphone or related to pyttsx3 or speech_recognition module do follow this step:
+    pip install pipwin
+    then run this command
+    pip install PyAudio
