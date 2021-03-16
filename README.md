@@ -20,7 +20,7 @@ You have to install following Python Modules to run the code in your Local Machi
 2. speech_recognition (pip install SpeechRecognition)
 3. wikipedia (pip intstall wikipedia)
 4. webbrowser (pip install webbrowser) 
-5. smtplib,datetime and os are inbuilt packages so need to install it.
+5. smtplib,datetime and os are inbuilt packages so no need to install it.
 
 Note: 1. To open code editor of your choice and python interpreter(IDLE) you have to provide
 path of your local directories in the source code to avoid error.
